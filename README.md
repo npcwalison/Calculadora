@@ -1,4 +1,4 @@
-## Projects For Beginners
+## Calculadora Simples
 
 Este é um projeto de uma calculadora simples desenvolvida utilizando HTML, CSS e JavaScript.
 
